@@ -104,8 +104,8 @@
                 android:layout_marginTop="150dp" />
 
             <ImageView
-                android:id="@+id/adress"
-                android:src="@drawable/ic_adress"
+                android:id="@+id/address"
+                android:src="@drawable/ic_address"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
@@ -113,8 +113,8 @@
 
 
             <TextView
-                android:id="@+id/adress_text"
-                android:text="facebook.fr"
+                android:id="@+id/address_text"
+                android:text="@string/facebook_fr"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="56dp"
